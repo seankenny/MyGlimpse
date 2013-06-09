@@ -1,0 +1,5 @@
+c:\users\sean\documents\visual studio 2012\Projects\MyGlimpse\Glimpse.Core\bin\Debug\MyGlimpse.Core.dll
+c:\users\sean\documents\visual studio 2012\Projects\MyGlimpse\Glimpse.Core\bin\Debug\MyGlimpse.Core.pdb
+c:\users\sean\documents\visual studio 2012\Projects\MyGlimpse\Glimpse.Core\obj\Debug\MyGlimpse.Core.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2012\Projects\MyGlimpse\Glimpse.Core\obj\Debug\MyGlimpse.Core.dll
+c:\users\sean\documents\visual studio 2012\Projects\MyGlimpse\Glimpse.Core\obj\Debug\MyGlimpse.Core.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGlimpse", "MyGlimpse\MyGlimpse.csproj", "{E3EFA656-7276-47DF-8552-B5766526693B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGlimpse.Core", "Glimpse.Core\MyGlimpse.Core.csproj", "{A06E6933-75BB-44E6-9B9C-989153CB2031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3EFA656-7276-47DF-8552-B5766526693B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EFA656-7276-47DF-8552-B5766526693B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EFA656-7276-47DF-8552-B5766526693B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EFA656-7276-47DF-8552-B5766526693B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06E6933-75BB-44E6-9B9C-989153CB2031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06E6933-75BB-44E6-9B9C-989153CB2031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06E6933-75BB-44E6-9B9C-989153CB2031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06E6933-75BB-44E6-9B9C-989153CB2031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
